@@ -1,8 +1,9 @@
 package operator;
 
 public class Bitwise {
-
+	
 	public static void main(String[] args) {
+		
 		// 자바 메서드로 진법 변환
 		int data = 13;
 		// 10진수값을 2, 8, 16진수값으로 변환
